@@ -1,0 +1,1 @@
+This course is very useful to do Big data Analytics. It would be very usefull if we have more code session on Spark.
